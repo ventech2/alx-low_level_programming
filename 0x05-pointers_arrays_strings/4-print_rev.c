@@ -19,7 +19,7 @@ void print_rev(char *s)
 	while (count)
 	{
 		s--;
-		_putcher(*s);
+		_putchar(*s);
 		count--;
 	}
 
